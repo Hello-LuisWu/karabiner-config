@@ -1,5 +1,5 @@
 {
-  "title": "Left ctrl + hjkl to Arrow Keys Vim",
+  "title": "Left ctrl + hjkl and wasd to Arrow Keys Vim",
   "rules": [
     {
       "description": "Left command + hjkl and wasd to arrow keys Vim",
